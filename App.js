@@ -47,12 +47,13 @@ const styles = StyleSheet.create({
   address:{
     color: "black",
     fontSize: 15,
-    marginBottom: 10
+    marginBottom: 15
   },
   containers:{
     flexDirection: 'column',
     justifyContent: 'flex-end',
     marginLeft: 20,
-    gap: 20
+    gap: 50,
+    
   }
 });
